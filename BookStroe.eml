@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/BookStroe"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 7.0.67" scope="PROVIDED"/>
+	<lib name="lib" scope="COMPILE">
+		<relative-module-cls project-related="file://$PROJECT_DIR$/web/WEB-INF/lib"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/ojdbc6.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/junit-4.10.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/jackson-all-1.8.0.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/hamcrest-core-1.3.rc2.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/hamcrest-library-1.3.rc2.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar!/"/>
+	</lib>
+	<levels>
+		<level name="Tomcat 7.0.67" value="application_server_libraries"/>
+		<level name="lib" value="project"/>
+	</levels>
+</component>

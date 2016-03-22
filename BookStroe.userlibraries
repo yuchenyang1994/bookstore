@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="C:/Users/Administrator/IdeaProjects/BookStroe/web/WEB-INF/lib/ojdbc6.jar" />
+    <archive path="C:/Users/Administrator/IdeaProjects/BookStroe/web/WEB-INF/lib/junit-4.10.jar" />
+    <archive path="C:/Users/Administrator/IdeaProjects/BookStroe/web/WEB-INF/lib/jackson-all-1.8.0.jar" />
+    <archive path="C:/Users/Administrator/IdeaProjects/BookStroe/web/WEB-INF/lib/hamcrest-core-1.3.rc2.jar" />
+    <archive path="C:/Users/Administrator/IdeaProjects/BookStroe/web/WEB-INF/lib/hamcrest-library-1.3.rc2.jar" />
+    <archive path="C:/Users/Administrator/IdeaProjects/BookStroe/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" />
+    <archive path="C:/Users/Administrator/IdeaProjects/BookStroe/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" />
+    <archive path="C:/Users/Administrator/IdeaProjects/BookStroe/web/WEB-INF/lib/ojdbc6.jar" />
+    <archive path="C:/Users/Administrator/IdeaProjects/BookStroe/web/WEB-INF/lib/junit-4.10.jar" />
+    <archive path="C:/Users/Administrator/IdeaProjects/BookStroe/web/WEB-INF/lib/jackson-all-1.8.0.jar" />
+    <archive path="C:/Users/Administrator/IdeaProjects/BookStroe/web/WEB-INF/lib/hamcrest-core-1.3.rc2.jar" />
+    <archive path="C:/Users/Administrator/IdeaProjects/BookStroe/web/WEB-INF/lib/hamcrest-library-1.3.rc2.jar" />
+    <archive path="C:/Users/Administrator/IdeaProjects/BookStroe/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" />
+    <archive path="C:/Users/Administrator/IdeaProjects/BookStroe/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
